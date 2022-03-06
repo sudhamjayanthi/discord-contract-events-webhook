@@ -4,4 +4,4 @@ a lil' tool to listen for smart contract events and trigger discord webhook, bui
 
 ### note:
 - you can also extend the support for slack, see [this](https://github.com/ayshptk/msngr)
-- this code is being used and has been integrated [here](https://github.com/richychn/fweb3-discord-bot/) 
+- this code has been integrated [here](https://github.com/richychn/fweb3-discord-bot/) and is being used for the fweb3 discord 
